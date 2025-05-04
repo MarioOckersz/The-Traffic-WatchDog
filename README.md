@@ -11,23 +11,7 @@ P                           MARIO| H ..\
 |                         _______| H |_\\
 |                        |.========H -  |
 B_,-._,-._______________/ |,-._,-._H_,-.)
---`-'-`-'------------------`-'-`-'---`-'--MO
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⡀⢀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠠⣤⣤⣤⠀⣿⠟⠉⠀⠀⠀⠀⠉⠻⣿⠀⣤⣤⣤⠄⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠙⠛⠀⣃⠀⠀⠀⠀⠀⠀⠀⠀⣘⠀⠛⠋⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⢠⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣦⣀⡀⢀⣀⣴⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢀⣀⣀⣀⠀⣿⡿⠛⠉⠉⠉⠙⠻⢿⣿⠀⣀⣀⣀⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠙⠻⢿⠀⠏⠀⠀⠀⠀⠀⠀⠀⠀⠻⠀⡿⠟⠋⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⡄⠀⠀⠀⠀⠀⠀⢠⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣦⡀⠀⠀⢀⣴⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣀⣀⣀⠀⣿⣿⠟⠋⣉⣉⠙⠻⣿⣿⠀⣀⣀⣀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠈⠛⢿⣿⠀⡟⠁⣰⣿⣿⣿⣿⣆⠈⢻⠀⣿⡿⠛⠁⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣶⡄⢻⣿⣿⣿⣿⡿⢠⣶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣄⡙⠻⠟⢋⣤⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⣉⣉⣉⣉⣉⣉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+--`-'-`-'------------------`-'-`-'---`-'--Mo⠀⠀⠀⠀
 
 
 Welcome to the Traffic Data Analysis Program! This Python application processes traffic data from CSV files, analyzes vehicle metrics, and visualizes the results using a Tkinter-based histogram. It’s designed to provide insights into traffic patterns at two junctions: Elm Avenue/Rabbit Road and Hanley Highway/Westway.
