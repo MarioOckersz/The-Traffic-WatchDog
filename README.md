@@ -19,14 +19,14 @@ Welcome to the Traffic Data Analysis Program! This Python application processes 
 
 #Table of Contents
 
-##Overview  
-##Features  
-##Prerequisites  
-##Installation  
-#Usage  
-#Program Structure   
-##Contributing  
-##License  
+Overview  
+Features  
+Prerequisites  
+Installation  
+Usage  
+Program Structure     
+License  
+
 **Overview**    
 This program, developed by Mario Ockersz, processes traffic data stored in CSV files (e.g., traffic_dataDDMMYYYY.csv). It validates user input for dates, extracts metrics like vehicle counts and speeds, calculates statistics, and displays a histogram of vehicle frequency by hour. The results are saved to a text file (results.txt) for record-keeping.
 ```
@@ -68,7 +68,7 @@ This program, developed by Mario Ockersz, processes traffic data stored in CSV f
 ✔ Peak Hour Detection – Identifies busiest traffic times.  
 
   
-#🛠 Installation  
+#🛠 **Installation**    
 Clone the repo:
 ```
 git clone https://github.com/MarioOckersz/Traffic-WatchDog.git
