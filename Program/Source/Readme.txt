@@ -1,5 +1,9 @@
 Howdy!,
 
+_________________________________________________________________
+| before you run the main file. make sure you place a csv file 	|
+| from the Test_File folder to see how the program runs.	|
+|_______________________________________________________________|
   _____________________________
 /                             \
 |    MUST HAVE THESE HEADERS:  |
