@@ -71,8 +71,8 @@ This program, developed by Mario Ockersz, processes traffic data stored in CSV f
 #🛠 **Installation**    
 Clone the repo:
 ```
-git clone https://github.com/MarioOckersz/Traffic-WatchDog.git
-cd Traffic-WatchDog
+git clone https://github.com/MarioOckersz/The-Traffic-WatchDog.git
+cd The-Traffic-WatchDog
 ```
 To run this program, you need:  
 
