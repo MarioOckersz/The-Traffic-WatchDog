@@ -113,11 +113,11 @@ Results are appended to results.txt.
 JunctionName,Date,timeOfDay,travel_Direction_in,travel_Direction_out,
 Weather_Conditions,JunctionSpeedLimit,VehicleSpeed,VehicleType,elctricHybrid
 ```
-#**❗ Important Notes
+#❗ **Important Notes
 **
-Missing headers will crash the program!
+-Missing headers will crash the program!
 
-Spellings must exactly match (e.g., ```elctricHybrid ≠ electricHybrid```).
+-Spellings must exactly match (e.g., ```elctricHybrid ≠ electricHybrid```).
 
 Sample CSV: ```traffic_data15062024.csv```
 
