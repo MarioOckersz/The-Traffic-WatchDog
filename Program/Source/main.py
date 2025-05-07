@@ -16,8 +16,6 @@ def validate_date_input():
     """
     while True:
         try:
-            print("Current working directory:", os.getcwd())
-
             DD = int(input("Please enter the day of the survey in the format DD: "))
             if 1 <= DD <= 31:
                 break
