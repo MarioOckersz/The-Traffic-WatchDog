@@ -113,8 +113,8 @@ Results are appended to results.txt.
 JunctionName,Date,timeOfDay,travel_Direction_in,travel_Direction_out,
 Weather_Conditions,JunctionSpeedLimit,VehicleSpeed,VehicleType,elctricHybrid
 ```
-#❗ **Important Notes
-**
+#❗Important Notes  
+
 -Missing headers will crash the program!
 
 -Spellings must exactly match (e.g., ```elctricHybrid ≠ electricHybrid```).
