@@ -121,9 +121,6 @@ Weather_Conditions,JunctionSpeedLimit,VehicleSpeed,VehicleType,elctricHybrid
 
 Sample CSV: ```traffic_data15062024.csv```
 
-Contributing
-Contributions are welcome! To contribute:
-
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 **Developed by Mario Ockersz, 2024.
