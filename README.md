@@ -18,17 +18,17 @@ B_,-._,-._______________/ |,-._,-._H_,-.)
 Welcome to the Traffic Data Analysis Program! This Python application processes traffic data from CSV files, analyzes vehicle metrics, and visualizes the results using a Tkinter-based histogram. It’s designed to provide insights into traffic patterns at two junctions: Elm Avenue/Rabbit Road and Hanley Highway/Westway.
 Table of Contents
 
-#Overview
-#Features
-#Prerequisites
-#Installation
-#Usage
-#Program Structure
-#Sample Output
-#Contributing
-#License
-
-Overview
+#Overview  
+#Features  
+#Prerequisites  
+#Installation  
+#Usage  
+#Program Structure  
+#Sample Output  
+#Contributing  
+#License  
+  
+Overview  
 This program, developed by Mario Ockersz, processes traffic data stored in CSV files (e.g., traffic_dataDDMMYYYY.csv). It validates user input for dates, extracts metrics like vehicle counts and speeds, calculates statistics, and displays a histogram of vehicle frequency by hour. The results are saved to a text file (results.txt) for record-keeping.
 ```
 +-----------------+
