@@ -77,10 +77,9 @@ cd The-Traffic-WatchDog
 To run this program, you need:  
 
 Python 3.6+: The program uses standard Python libraries.  
-Ensure Python is Installed:Verify Python version:  
-python3 --version  
+Ensure Python is Installed:Verify Python version:  ```python3 --version```  
 Tkinter: Usually included with Python  
-ensure it's installed (sudo apt-get install python3-tk on Linux if needed).  
+ensure it's installed (```sudo apt-get install python3-tk ```on Linux if needed).  
 CSV Files: Traffic data in the format traffic_dataDDMMYYYY.csv (e.g., traffic_data21062024.csv).  
 
 #**🚀 Usage**  
