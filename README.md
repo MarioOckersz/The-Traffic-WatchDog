@@ -60,8 +60,8 @@ This program, developed by Mario Ockersz, processes traffic data stored in CSV f
 +-----------------+
 ```
 
-#
-📌 **Features**  
+#📌 **Features**  
+
 ✔ CSV Data Processing – Extract key traffic metrics (vehicles, speed, junctions).  
 ✔ Interactive Histograms – Visualize hourly traffic flow with tkinter.  
 ✔ Date Validation – Ensures correct input format and checks leap years.  
@@ -84,8 +84,7 @@ Tkinter: Usually included with Python
 ensure it's installed (```sudo apt-get install python3-tk ```on Linux if needed).  
 CSV Files: Traffic data in the format traffic_dataDDMMYYYY.csv (e.g., traffic_data21062024.csv).  
 
-#
-**🚀 Usage** 
+#**🚀 Usage** 
 
 Run the script:
 ```
@@ -97,8 +96,8 @@ The program processes the CSV and displays metrics in the console.
 A Tkinter window shows a histogram of vehicle frequency by hour.
 Results are appended to results.txt.
 
-#**📋 CSV File Format Required
-**
+#**📋 CSV File Format Required**
+
 ```
   _____________________________
 /                             \
@@ -110,8 +109,9 @@ Results are appended to results.txt.
                ||----w |
                ||     ||
 ```
-#**🔍 Header Details
-**
+
+#**🔍 Header Details**
+
 ```
 JunctionName,Date,timeOfDay,travel_Direction_in,travel_Direction_out,
 Weather_Conditions,JunctionSpeedLimit,VehicleSpeed,VehicleType,elctricHybrid
@@ -126,5 +126,5 @@ Sample CSV: ```traffic_data15062024.csv```
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-**Developed by Mario Ockersz, 2024.
-**
+
+**Developed by Mario Ockersz, 2024.**
