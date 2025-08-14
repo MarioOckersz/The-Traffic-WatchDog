@@ -60,7 +60,8 @@ This program, developed by Mario Ockersz, processes traffic data stored in CSV f
 +-----------------+
 ```
 
-#📌 **Features**  
+#
+📌 **Features**  
 ✔ CSV Data Processing – Extract key traffic metrics (vehicles, speed, junctions).  
 ✔ Interactive Histograms – Visualize hourly traffic flow with tkinter.  
 ✔ Date Validation – Ensures correct input format and checks leap years.  
@@ -69,6 +70,7 @@ This program, developed by Mario Ockersz, processes traffic data stored in CSV f
 
   
 #🛠 **Installation**    
+
 Clone the repo:
 ```
 git clone https://github.com/MarioOckersz/The-Traffic-WatchDog.git
@@ -82,7 +84,9 @@ Tkinter: Usually included with Python
 ensure it's installed (```sudo apt-get install python3-tk ```on Linux if needed).  
 CSV Files: Traffic data in the format traffic_dataDDMMYYYY.csv (e.g., traffic_data21062024.csv).  
 
-#**🚀 Usage**  
+#
+**🚀 Usage** 
+
 Run the script:
 ```
 python Traffic-WatchDog.py
